@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Students>
+
+
+
+
+    <Student id="duong van lam">
+
+
+
+
+        <Name>sdahd</Name>
+
+
+
+
+        <Age>123</Age>
+
+
+
+
+        <Major> ứada</Major>
+
+
+
+
+    </Student>
+
+
+
+
+    <Student id="23423">
+
+
+
+        <Name>ádasd</Name>
+
+
+
+        <Age>12</Age>
+
+
+
+        <Major> bed</Major>
+
+
+
+    </Student>
+
+
+
+    <Student id="1234">
+
+        <Name>lam duong</Name>
+
+        <Age>20</Age>
+
+        <Major>hahah</Major>
+
+    </Student>
+
+</Students>
